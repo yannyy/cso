@@ -1,3 +1,0 @@
-[submodule "cso-auth"]
-	path = cso-auth
-	url = git@github.com:yannyy/cso-auth.git
