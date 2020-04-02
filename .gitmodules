@@ -4,3 +4,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = git@github.com:yannyy/cso-api-gateway.git
+[submodule "k8s"]
+	path = k8s
+	url = git@github.com:yannyy/cso-k8s.git
