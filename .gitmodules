@@ -7,3 +7,6 @@
 [submodule "k8s"]
 	path = k8s
 	url = git@github.com:yannyy/cso-k8s.git
+[submodule "common"]
+	path = common
+	url = git@github.com:yannyy/cso-common.git
